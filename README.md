@@ -1,2 +1,2 @@
-# LearningGO
-To organize my learning in Golang
+# BookingApp
+Simple booking app to learn the basics of GO language.
